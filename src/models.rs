@@ -42,7 +42,7 @@ impl DroneDataList {
 
     pub fn save_to_file(self: &DroneDataList, format: String, filename: String) {
         //create file
-        let file = File::create(format!(r"output\{}", filename)).expect("Unable to create file");
+        let file = File::create(format!(r"output\{}.{}", filename, format)).expect("Unable to create file");
 
         match format.as_str() {
             "json" => {
