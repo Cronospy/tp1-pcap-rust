@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[00, 50, f2]",
+      "mac_address": "d4:d4:da:5c:d8:05",
+      "latitude": 0,
+      "longitude": 0,
+      "altitude": 0
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    },
+    {
+      "ssid": "THESEUS_DAO_1",
+      "vendor_specific": "[6a, 5c, 35]",
+      "mac_address": "24:62:ab:dd:b0:bd",
+      "latitude": -586396928,
+      "longitude": 1739457280,
+      "altitude": -31488
+    }
+  ]
+}

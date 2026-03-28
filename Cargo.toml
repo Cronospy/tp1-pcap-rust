@@ -1,0 +1,15 @@
+[package]
+name = "tp1"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+cards = "1.1.2"
+clap = { version = "4", features = ["derive"] }
+csv = "1.4.0"
+filter = "0.2.0"
+interface = "0.0.1"
+pcap = "2.4.0"
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.149"
