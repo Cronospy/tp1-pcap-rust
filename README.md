@@ -10,7 +10,7 @@ Programme Rust d'analyse de trames Wi-Fi pour détecter et extraire les informat
 
 ## Installation
 ```bash
-git clone https://github.com/ton-username/tp1.git
+git clone https://github.com/Cronospy/tp1-pcap-rust
 cd tp1
 ```
 
